@@ -1,0 +1,15 @@
+D:\C#\Task-3\bin\Debug\net8.0\Task-3.exe
+D:\C#\Task-3\bin\Debug\net8.0\Task-3.deps.json
+D:\C#\Task-3\bin\Debug\net8.0\Task-3.runtimeconfig.json
+D:\C#\Task-3\bin\Debug\net8.0\Task-3.dll
+D:\C#\Task-3\bin\Debug\net8.0\Task-3.pdb
+D:\C#\Task-3\obj\Debug\net8.0\Task-3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Task-3\obj\Debug\net8.0\Task-3.AssemblyInfoInputs.cache
+D:\C#\Task-3\obj\Debug\net8.0\Task-3.AssemblyInfo.cs
+D:\C#\Task-3\obj\Debug\net8.0\Task-3.csproj.CoreCompileInputs.cache
+D:\C#\Task-3\obj\Debug\net8.0\Task-3.sourcelink.json
+D:\C#\Task-3\obj\Debug\net8.0\Task-3.dll
+D:\C#\Task-3\obj\Debug\net8.0\refint\Task-3.dll
+D:\C#\Task-3\obj\Debug\net8.0\Task-3.pdb
+D:\C#\Task-3\obj\Debug\net8.0\Task-3.genruntimeconfig.cache
+D:\C#\Task-3\obj\Debug\net8.0\ref\Task-3.dll
