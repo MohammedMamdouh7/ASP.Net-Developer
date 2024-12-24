@@ -1,0 +1,26 @@
+============================= ERD-1======================
+Musician(ID, Name, St, City, Phone)
+Instrument(Name, Key)
+Song(Title, Author)
+Album(ID, Date, Title, Musician.ID)
+Musician-Instrument(Musician.ID, Instrument.Name)
+Musician-Song(Musician.ID, Song.Title)
+=========================================================
+
+============================= ERD-2======================
+Employee(ID, Name, NUM)
+Sales Office(NUM, Loc)
+Property(ID, Add, City, State, Zip, NUM)
+Owner(ID, Name)  
+Has(Property.ID, Owner.ID, Percent-owned)
+=========================================================
+
+============================= ERD-3======================
+Consultant(ID, Name)  
+Patient(ID, Name, DOB, Consultant.ID, Ward.ID)  
+Ward(ID, Name)  
+Nurse(ID, Name, Ward.ID)  
+Drug(Code, Rec Dosage)  
+Drug-Brand(Code, Brand)
+Gives(Patient.ID, Nurse.ID, Drug.Code, Date, Time, Dosage)
+==========================================================
