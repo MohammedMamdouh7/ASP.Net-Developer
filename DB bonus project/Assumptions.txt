@@ -1,0 +1,4 @@
+WE ADD Company_Id attribute for Companies.
+WE ADD Perscription_Id attribute for Perscriptions.
+WE ADD Drug_Id attribute for Drugs.
+المشروع غير كامل و توقفت عند اضافة ال mock data

@@ -1,0 +1,17 @@
+Patient(P_UR_Number, P_Name, P_Address, P_Age, P_Phone, P_Email, P_Medicare _Number)
+
+Doctors(D_Id, D_Name, years_of_ experience, D_Specialty, D_Specialty , D_Phone, P_UR_Number)
+
+Drugs(Drug_Id, Drug_Name, Drug_Strength)
+
+Prescriptions(Prescription_Id, Prescription_ Date, Quantity)
+
+Companies(Company_ID, C_Name, C_Address, C_Phone)
+
+Doctors_Prescriptions(D_Id, Prescription_Id)
+
+Patient_Prescriptions(P_UR_Number, Prescription_Id)
+
+Drugs_Prescriptions(Drug_Id, Prescription_Id)
+
+Drugs_Companies(Drug_Id, Company_ID)
